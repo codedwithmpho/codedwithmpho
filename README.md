@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**codedwithmpho/codedwithmpho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Mpho 👋  
+**BIS Multimedia Student | Aspiring UX/UI & Full-Stack Developer**
 
-Here are some ideas to get you started:
+I’m passionate about designing and building meaningful digital experiences.  
+Right now, I’m learning the foundations of full-stack development while exploring UX/UI, web design, and creative coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m currently learning
+- JavaScript fundamentals  
+- UX/UI design principles  
+- Web development basics (HTML, CSS, JS)  
+- Version control & Git/GitHub  
+
+### 🛠️ Tech I use (so far)
+- HTML, CSS, JavaScript  
+- Adobe Illustrator, Photoshop, Animate  
+- WordPress  
+- Figma (beginner)  
+
+### 🎯 Goals for 2026
+- Build 5–10 real projects  
+- Strengthen my UX/UI case studies  
+- Contribute to open-source  
+- Land my first internship  
+
+### 📫 Let’s connect!
+LinkedIn: [linkedin.com/in/mpho-makwela](#)
