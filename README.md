@@ -8,10 +8,12 @@ Right now, I’m learning the foundations of full-stack development while explor
 - JavaScript fundamentals  
 - UX/UI design principles  
 - Web development basics (HTML, CSS, JS)  
-- Version control & Git/GitHub  
+- Version control & Git/GitHub
+- Game development with C++
 
 ### 🛠️ Tech I use (so far)
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript
+- C++
 - Adobe Illustrator, Photoshop, Animate  
 - WordPress  
 - Figma (beginner)  
@@ -23,4 +25,4 @@ Right now, I’m learning the foundations of full-stack development while explor
 - Land my first internship  
 
 ### 📫 Let’s connect!
-LinkedIn: [linkedin.com/in/mpho-makwela](#)
+LinkedIn: [www.linkedin.com/in/mpho-m-codes](#)
