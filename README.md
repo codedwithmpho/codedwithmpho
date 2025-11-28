@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I’m Mpho 👋  
 **BIS Multimedia Student | Aspiring UX/UI & Full-Stack Developer**
 
