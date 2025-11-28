@@ -4,19 +4,24 @@
 I’m passionate about designing and building meaningful digital experiences.  
 Right now, I’m learning the foundations of full-stack development while exploring UX/UI, web design, and creative coding.
 
+---
+
 ### 🚀 What I’m currently learning
 - JavaScript fundamentals  
 - UX/UI design principles  
 - Web development basics (HTML, CSS, JS)  
-- Version control & Git/GitHub
+- Version control & Git/GitHub  
 - Game development with C++
 
-### 🛠️ Tech I use (so far)
-- HTML, CSS, JavaScript
-- C++
-- Adobe Illustrator, Photoshop, Animate  
-- WordPress  
-- Figma (beginner)
+---
+
+### 🛠️ Skills & Tools
+I work with both **creative and development tools** to bring ideas to life:
+
+- **Creative:** Illustrator, Photoshop, Figma, Adobe Animate, Canva  
+- **Development:** HTML, CSS, JavaScript, C++, WordPress, Git
+
+---
 
 # 💻 Tech Stack
 
@@ -36,6 +41,7 @@ Right now, I’m learning the foundations of full-stack development while explor
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
 ### 🎯 Goals for 2026
 - Build 5–10 real projects  
@@ -43,5 +49,7 @@ Right now, I’m learning the foundations of full-stack development while explor
 - Contribute to open-source  
 - Land my first internship  
 
+---
+
 ### 📫 Let’s connect!
-LinkedIn: [www.linkedin.com/in/mpho-m-codes](#)
+LinkedIn: [www.linkedin.com/in/mpho-m-codes](https://www.linkedin.com/in/mpho-m-codes)
