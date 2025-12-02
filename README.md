@@ -36,11 +36,8 @@ I work with both **creative and development tools** to bring ideas to life:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎯 Goals for 2026
-- Build 5–10 real projects  
+- Build projects  
 - Strengthen my UX/UI case studies  
-- Contribute to open-source  
-- Land my first internship  
-
 
 ### 📫 Let’s connect!
 LinkedIn: [www.linkedin.com/in/mpho-m-codes](https://www.linkedin.com/in/mpho-m-codes)
